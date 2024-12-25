@@ -1,0 +1,154 @@
+[
+  {
+    "question": "James ________ to him on the phone.",
+    "options": [" A. spoked", " B. speaked", " C. spoke ", " D. spoken "],
+    "answer": " C. spoke "
+  },
+  {
+    "question": "When I was a boy, I ________ tea to coffee.",
+    "options": [" A. prefer", " B. prefered", " C. preferred", " D. had preferred "],
+    "answer": " C. preferred "
+  },
+  {
+    "question": "You had better ________ harder.",
+    "options": [" A. work ", " B. to work", " C. worked "],
+    "answer": " A. work "
+  },
+  {
+    "question": "I can't help you, and he can't help you ________.",
+    "options": [" A. neither", " B. too", " C. also", " D. either "],
+    "answer": " D. either "
+  },
+  {
+    "question": "______ me the time, please.",
+    "options": [" A. Can you telling", " B. Do you can tell", " C. Can you tell ", " D. Are you able for telling "],
+    "answer": " C. Can you tell "
+  },
+  {
+    "question": "I have ________ wheel in the back of my car.",
+    "options": [" A. other", " B. others", " C. the other", " D. another "],
+    "answer": " D. another "
+  }
+  ,
+  {
+      "question": "Our house is ________ the church.",
+      "options": [" A. close of", " B. near from", " C. next to ", " D. next by "],
+      "answer": " C. next to "
+  },
+  {
+      "question": "It's cold outside, so put your coat ________.",
+      "options": [" A. over", " B. off", " C. on ", " D. to "],
+      "answer": " C. on "
+  },
+  {
+      "question": "He is ________ a piece of paper.",
+      "options": [" A. wearing", " B. holding ", " C. having", " D. getting "],
+      "answer": " B. holding "
+   },
+   {
+      "question": "- I think Real Madrid is a great team. - ________.",
+      "options": [" A. And I so", " B. So do I ", " C. The same for me", " D. So am I "],
+      "answer": " B. So do I "
+   },
+   {
+      "question": "It's Susan's book. It's ________.",
+      "options": [" A. his", " B. hers ", " C. she", " D. mine "],
+      "answer": " B. hers "
+   },
+   {
+      "question": "They quarelled ________ the choice of a house.",
+      "options": [" A. on ", " B. over ", " C. for ", " D. to "],
+      "answer": " B. over "
+   },
+  {
+      "question": "I live ________ my mother and father.",
+      "options": [" A. to ", " B. by ", " C. with ", " D. from "],
+      "answer": " C. with "
+   },
+   {
+      "question": "Frank ________ up at 5 o'clock this morning.",
+      "options": [" A. arose ", " B. stayed", " C. got ", " D. awoke "],
+      "answer": " C. got "
+   },
+  {
+      "question": "I have drunk ________ today.",
+      "options": [" A. four beer-bottles ", " B. four bottles beer ", " C. beer four bottles ", " D. four bottles of beer "],
+      "answer": " D. four bottles of beer "
+   },
+   {
+      "question": "She walked ________ the road without looking.",
+      "options": [" A. by", " B. through ", " C. across", " D. long "],
+      "answer": " C. across "
+   },
+   {
+      "question": "All work is better than ________ at all.",
+      "options": [" A. no ", " B. none ", " C. not ", " D. some "],
+      "answer": " A. no "
+    },
+
+    {
+        "question": "I get an email ________ my boyfriend every day.",
+        "options": [" A. from ", " B. of ", " C. off ", " D. out "],
+        "answer": " A. from "
+      },
+      {
+        "question": "There may be as ________ as six guests to dinner.",
+        "options": [" A. much ", " B. many ", " C. many more ", " D. very many "],
+        "answer": " B. many "
+      },
+      {
+        "question": "He swam ________ the river yesterday.",
+        "options": [" A. cross", " B. crossed ", " C. across ", " D. crossing "],
+        "answer": " C. across "
+      },
+      {
+        "question": "______ does it take to get to the river from here?",
+        "options": [" A. How far ", " B. How long ", " C. How much ", " D. How many "],
+        "answer": " B. How long "
+      },
+      {
+        "question": "Try again. Don't give ________ hope.",
+        "options": [" A. out ", " B. up", " C. on ", " D. off "],
+        "answer": " B. up "
+      },
+      {
+        "question": "There ________ some good news about our school lately.",
+        "options": [" A. is ", " B. were ", " C. has been ", " D. have been "],
+        "answer": " C. has been "
+      },
+      {
+        "question": "Kate is the best ________ the three.",
+        "options": [" A. in ", " B. from ", " C. than ", " D. of "],
+        "answer": " D. of "
+      },
+      {
+        "question": "______ is your birthday?",
+        "options": [" A. when ", " B. whose ", " C. why ", " D. how's "],
+        "answer": " A. when "
+      },
+      {
+        "question": "\"________ good news to me\" said Tom.",
+        "options": [" A. There are ", " B. Those are ", " C. These are ", " D. That is "],
+        "answer": " D. That is "
+      },
+      {
+        "question": "Each of the girls ________ a lot of toys.",
+        "options": [" A. has ", " B. have ", " C. having ", " D. haves "],
+        "answer": " A. has "
+      },
+      {
+        "question": "I'm tired ________ waiting for him.",
+        "options": [" A. from ", " B. for", " C. of ", " D. by "],
+        "answer": " C. of "
+      },
+      {
+        "question": "He is going to ________ down.",
+        "options": [" A. lie", " B. laid ", " C. lay ", " D. lied "],
+        "answer": " A. lie "
+      },
+      {
+        "question": "______ a letter here for you.",
+        "options": [" A. It's ", " B. It has ", " C. Theirs ", " D. There's "],
+        "answer": " D. There's "
+      }
+    ]

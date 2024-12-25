@@ -1,0 +1,357 @@
+[
+    {
+        "question": "Woman: You met John at the last meeting. .......... you?<br>Man: I don't think so.",
+        "image": "images/1.png",
+        "options": [
+            "A. don't",
+            "B. didn't",
+            "C. hadn't",
+            "D. haven't"
+        ],
+        "answer": "B. didn't"
+    },
+    {
+        "question": "Man: Is that your sister's car?<br>Woman: Actually, it's .......... <br>Man: Lucky you!",
+        "image": "images/2.png",
+        "options": [
+            "A. theirs",
+            "B. yours",
+            "C. mine",
+            "D. hers"
+        ],
+        "answer": "C. mine"
+    },
+    {
+        "question": "Woman: always travel by bus.<br>Man: Why?<br>Woman: Because it's …….. than the train.",
+        "image": "images/3.png",
+        "options": [
+            "A. cheap",
+            "B. cheaper",
+            "C. as cheap",
+            "D. the cheapest"
+        ],
+        "answer": "B. cheaper"
+    },
+    {
+        "question": "Man: Are you going to the movies tonight?<br>Woman: I might go this Friday ........ about you?",
+        "image": "images/4.png",
+        "options": [
+            "A. Why",
+            "B. What",
+            "C. When",
+            "D. Where"
+        ],
+        "answer": "B. What"
+    },
+    {
+        "question": "Man: Where's Billy?<br>Woman: He's ……… his bedroom, I think.",
+        "image": "images/5.png",
+        "options": [
+            "A. in",
+            "B. on",
+            "C. at",
+            "D. by"
+        ],
+        "answer": "A. in"
+    },
+    {
+        "question": "Man: Did you find any documentation about the new office printer?<br>Woman: No. I looked on the manufacturer's website but ……… there.",
+        "image": "images/6.png",
+        "options": [
+            "A. it wasn't much",
+            "B. it weren't many",
+            "C. they weren't many",
+            "D. there wasn't much"
+        ],
+        "answer": "D. there wasn't much"
+    },
+    {
+        "question": "Woman: I think my computer is broken. It won't ..... up.<br>Man: Sorry, I can't help much. I don't know ……. Computers!",
+        "image": "images/7.png",
+        "options": [
+            "A. still",
+            "B. start",
+            "C. work",
+            "D. switch"
+        ],
+        "answer": "B. start"
+    },
+    {
+        "question": "Woman: I'll be back in the office on Monday.<br>Man: Okay ………. a good weekend!",
+        "image": "images/8.png",
+        "options": [
+            "A. Get",
+            "B. Take",
+            "C. Have",
+            "D. Make"
+        ],
+        "answer": "C. Have"
+    },
+    {
+        "question": "Woman: Sorry I didn't come to your party.<br>Man: What happened?<br>Woman: Oh. I ……… sick, so I went to sleep.",
+        "image": "images/9.png",
+        "options": [
+            "A. felt",
+            "B. feel",
+            "C. feels",
+            "D. feeling"
+        ],
+        "answer": "A. felt"
+    },
+    {
+        "question": "Waiter: May I take your order?<br>Customer: Do you have soup today?<br>Waiter: Let me check. I'll be right back. What does the waiter mean by her SECOND comment?",
+        "image": "images/10.png",
+        "options": [
+            "A. Please wait. I will find out.",
+            "B. I'm sorry. There's no soup on the menu.",
+            "C. Please come with me. You can pay now."
+        ],
+        "answer": "A. Please wait. I will find out."
+    },
+    {
+        "question": "Man: I am hungry. I did not eat lunch.<br>Woman: Okay, let's go.",
+        "image": "images/11.png",
+        "options": [
+            "A. did",
+            "B. got",
+            "C. had",
+            "D. was"
+        ],
+        "answer": "C. had"
+    },
+    {
+        "question": "Man: I'm so thirsty.<br>Woman: Here …… some water.",
+        "image": "images/12.png",
+        "options": [
+            "A. Like",
+            "B. Give",
+            "C. Have",
+            "D. Want"
+        ],
+        "answer": "C. Have"
+    },
+    {
+        "question": "Woman: Do you want another coffee?<br>Man: No thanks, I've had ………..",
+        "image": "images/13.png",
+        "options": [
+            "A. something",
+            "B. enough",
+            "C. more",
+            "D. any"
+        ],
+        "answer": "B. enough"
+    },
+    {
+        "question": "……….. Man: Can I speak to Mr. Brown, please?<br>Woman: He is here",
+        "image": "images/14.png",
+        "options": [
+            "A. Should",
+            "B. Would",
+            "C. Could",
+            "D. Will"
+        ],
+        "answer": "C. Could"
+    },
+    {
+        "question": "Woman: The park is really busy today. Is it a holiday?<br>Man: I don't think so. Let's find a quieter place.<br>What does the woman mean?",
+        "image": "images/15.png",
+        "options": [
+            "A. The park is closed today.",
+            "B. There are many people in the park.",
+            "C. She wants to go to a different park."
+        ],
+        "answer": "B. There are many people in the park."
+    },
+    {
+        "question": "Man: Where is my book?<br>Woman: Here it is<br>What does the man mean?",
+        "image": "images/16.png",
+        "options": [
+            "A. I want to eat",
+            "B. I want to read.",
+            "C. I want to sleep."
+        ],
+        "answer": "B. I want to read."
+    },
+    {
+        "question": "Man: I've lost my keys!<br>Woman: Did you have them at work?<br>What does the man mean?",
+        "image": "images/17.png",
+        "options": [
+            "A. He can't find his keys.",
+            "B. He left his keys at work.",
+            "C. Somebody took his keys."
+        ],
+        "answer": "A. He can't find his keys."
+    },
+    {
+        "question": "Woman: We can take the bus on Smith Street.<br>Man: No, we can't. We'll be late.<br>Woman: Okay, let's take a taxi.<br>What does the man mean?",
+        "image": "images/18.png",
+        "options": [
+            "A. The bus will be too slow.",
+            "B. The taxi is waiting on Smith Street.",
+            "C. He wants to walk to the bus station."
+        ],
+        "answer": "A. The bus will be too slow."
+    },
+    {
+        "question": "Man: Good morning. I'd like to get a ticket to New York.<br>Woman: Of course. When would you like to fly?<br>What does the woman mean?",
+        "image": "images/19.png",
+        "options": [
+            "A. What time do you want to leave?",
+            "B. How long will you be on the airplane?",
+            "C. When are you coming back from New York?"
+        ],
+        "answer": "A. What time do you want to leave?"
+    },
+    {
+        "question": "Woman: What are your plans for the weekend?<br>Man: I ………….. to the park with friends.",
+        "image": "images/20.png",
+        "options": [
+            "A. am going",
+            "B. would go",
+            "C. going",
+            "D. went"
+        ],
+        "answer": "A. am going"
+    },
+    {
+        "question": "Girl: Good news. My mother let me ………. at school until five today.<br>Boy: That's good. We can study for the exam.",
+        "image": "images/21.png",
+        "options": [
+            "A. stay",
+            "B. stays",
+            "C. staying",
+            "D. to stay"
+        ],
+        "answer": "A. stay"
+    },
+        {
+            "question": "Woman: Are you still writing letters by hand? I can’t believe it. You need to get with the times!<br>Man: What do you mean?<br>Woman: I got you this computer last year and you’ve hardly touched it.<br>What does the woman mean by her FIRST statement?",
+            "image": "images/45.png",
+            "options": [
+                "A. She wants to help the man fix his computer.",
+                "B. She believes the man needs to buy a new computer.",
+                "C. She thinks the man needs to use the computer more."
+            ],
+            "answer": "C. She thinks the man needs to use the computer more."
+        },
+        {
+            "question": "Woman: Did you like the food at the restaurant this time?<br>Man: Yes, it was much ……… than last time.",
+            "image": "images/46.png",
+            "options": [
+                "A. well",
+                "B. best",
+                "C. good",
+                "D. better"
+            ],
+            "answer": "D. better"
+        },
+        {
+            "question": "Woman: Where do you live?<br>Man: In Boston ……………. There for six years now.",
+            "image": "images/47.png",
+            "options": [
+                "A. I live",
+                "B. I lived",
+                "C. I have lived",
+                "D. I was living"
+            ],
+            "answer": "C. I have lived"
+        },
+        {
+            "question": "Girl: What are you doing this weekend?<br>Boy: I……….. to the movies with my brother.",
+            "image": "images/48.png",
+            "options": [
+                "A. go",
+                "B. went",
+                "C. going",
+                "D. am going"
+            ],
+            "answer": "D. am going"
+        },
+        {
+            "question": "Waiter: May I take your order?<br>Customer: Do you have soup today?<br>Waiter: Let me check. I’ll be right back.<br>What does the waiter mean by her SECOND comment?",
+            "image": "images/10.png",
+            "options": [
+                "A. Please wait. I will find out.",
+                "B. I’m sorry. There’s no soup on the menu.",
+                "C. Please come with me. You can pay now."
+            ],
+            "answer": "A. Please wait. I will find out."
+        },
+        {
+            "question": "Woman: How is your mother doing?<br>Man: She’s feeling much better. Thanks.<br>What does the man mean?",
+            "image": "images/28.png",
+            "options": [
+                "A. His mother isn’t sick anymore.",
+                "B. He doesn’t see his mother very often.",
+                "C. His mother still doesn’t feel very well."
+            ],
+            "answer": "A. His mother isn’t sick anymore."
+        },
+        {
+            "question": "Woman: Where did you ……….. last night?<br>Man: Nowhere. I stayed home and watched television.",
+            "image": "images/49.png",
+            "options": [
+                "A. go",
+                "B. been",
+                "C. went",
+                "D. going"
+            ],
+            "answer": "A. go"
+        },
+        {
+            "question": "Woman: Can I borrow a pen?<br>Man: Sorry I ………. Have one.",
+            "image": "images/50.png",
+            "options": [
+                "A. can’t",
+                "B. won’t",
+                "C. don’t",
+                "D. didn’t"
+            ],
+            "answer": "C. don’t"
+        },
+        {
+            "question": "Man: Good morning. I’d like to get a ticket to New York.<br>Woman: Of course. Where would you like to fly?<br>What does the woman mean?",
+            "image": "images/51.png",
+            "options": [
+                "A. What time do you want to leave?",
+                "B. How long will you be on the airplane?",
+                "C. When are you coming back from New York?"
+            ],
+            "answer": "A. What time do you want to leave?"
+        },
+        {
+            "question": "Man: I am hungry. I …………. not eat lunch.<br>Woman: Okay, let’s go get something to eat.",
+            "image": "images/11.png",
+            "options": [
+                "A. did",
+                "B. got",
+                "C. had",
+                "D. was"
+            ],
+            "answer": "C. had"
+        },
+        {
+            "question": "Woman: How often do you ride the bus to work?<br>Man: I ………… ride the bus. I walk every day.",
+            "image": "images/52.png",
+            "options": [
+                "A. often",
+                "B. never",
+                "C. usually",
+                "D. sometimes"
+            ],
+            "answer": "B. never"
+        },
+        {
+            "question": "Server: Would you like ……………. dessert?<br>Customer: No, thank you.",
+            "image": "images/53.png",
+            "options": [
+                "A. a lot",
+                "B. some",
+                "C. many",
+                "D. a price"
+            ],
+            "answer": "B. some"
+        }
+  
+    
+]

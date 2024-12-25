@@ -1,0 +1,101 @@
+[
+    {
+      "question": "Is his family ………… Mew York?",
+      "options": ["A. from", "B. to", "C. at", "D. For"],
+      "answer": "A. from"
+    },
+    {
+      "question": "What do you want to do?",
+      "options": ["A. is", "B. are", "C. does", "D. Do"],
+      "answer": "D. Do"
+    },
+    {
+      "question": "How do you go to school?",
+      "options": ["A. in", "B. at", "C. by", "D. of"],
+      "answer": "C. by"
+    },
+    {
+      "question": "What are you doing this Saturday?",
+      "options": ["A. want", "B. wants", "C. wanted", "D. wanting"],
+      "answer": "A. want"
+    },
+    {
+      "question": "Mom, can I …….. some juice?",
+      "options": ["A. want", "B. have", "C. wanting", "D. Having"],
+      "answer": "B. have"
+    },
+    {
+      "question": "Do you ……….. an apple?",
+      "options": ["A. want", "B. wants", "C. to want", "D. wanting"],
+      "answer": "A. want"
+    },
+    {
+      "question": "Is this David’s phone?",
+      "options": ["A. him", "B. his", "C. my", "D. me"],
+      "answer": "B. his"
+    },
+    {
+      "question": "Hi Jane. ___ is your mother?",
+      "options": ["A. How", "B. Who", "C. When", "D. Where"],
+      "answer": "A. How"
+    },
+    {
+      "question": "What kind of music ___ you listening to these days?",
+      "options": ["A. did", "B. are", "C. have", "D. could"],
+      "answer": "B. are"
+    },
+    {
+      "question": "What does the man mean?",
+      "options": ["A. He knows the town well.", "B. He wants to live in this area.", "C. His family owns the restaurant."],
+      "answer": "A. He knows the town well."
+    },
+    
+        {
+          "question": "What does the man mean?",
+          "options": ["A. The bus will be too slow.", "B. The taxi is waiting on Smith Street.", "C. He wants to walk to the bus station."],
+          "answer": "A. The bus will be too slow."
+        },
+        {
+          "question": "What does the woman mean?",
+          "options": ["A. I don't have it.", "B. I am looking for it.", "C. I can give it to you."],
+          "answer": "C. I can give it to you."
+        },
+        {
+          "question": "What does the woman mean?",
+          "options": ["A. The park is closed today.", "B. There are many people in the park.", "C. She wants to go to a different park."],
+          "answer": "B. There are many people in the park."
+        },
+        {
+          "question": "What does the man mean?",
+          "options": ["A. He works in a school.", "B. He works in a bank.", "C. He works in a post office."],
+          "answer": "A. He works in a school."
+        },
+        {
+          "question": "What does the man mean?",
+          "options": ["A. He does not like flowers.", "B. He did not give the woman flowers.", "C. He wanted to buy different flowers."],
+          "answer": "B. He did not give the woman flowers."
+        },
+        {
+          "question": "What does the woman mean?",
+          "options": ["A. She works until 2 p.m.", "B. She begins work at 2 p.m.", "C. She finishes work at 10 a.m."],
+          "answer": "A. She works until 2 p.m."
+        },
+        {
+          "question": "What does the woman mean?",
+          "options": ["A. I don't know.", "B. I don't like math.", "C. I don't understand."],
+          "answer": "A. I don't know."
+        },
+        {
+          "question": "What does the woman mean?",
+          "options": ["A. I like sports.", "B. I like books.", "C. I like music."],
+          "answer": "A. I like sports."
+        },
+        {
+          "question": "What does the woman mean?",
+          "options": ["A. I don't know the time.", "B. I don't understand you.", "C. I can't see the clock from here."],
+          "answer": "A. I don't know the time."
+        }
+      
+      
+  ]
+  

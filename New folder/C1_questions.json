@@ -1,0 +1,13 @@
+[
+    {
+      "question": "What are the implications of climate change?",
+      "options": ["Climate change leads to rising sea levels and unpredictable weather patterns.", "I live in Bangkok.", "It is sunny today."],
+      "answer": "Climate change leads to rising sea levels and unpredictable weather patterns."
+    },
+    {
+      "question": "How does technology affect human interaction?",
+      "options": ["Technology enhances communication but reduces face-to-face interaction.", "I am a teacher.", "I live in New York."],
+      "answer": "Technology enhances communication but reduces face-to-face interaction."
+    }
+  ]
+  

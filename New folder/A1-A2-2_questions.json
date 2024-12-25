@@ -1,0 +1,158 @@
+[
+    {
+      "question": "______ the light on: it's dark in here.",
+      "options": [" A. Do ", " B. Put ", " C. Make ", " D. Push "],
+      "answer": " B. Put "
+    },
+    {
+      "question": "They owe me ________.",
+      "options": [" A. nobody ", " B. anybody ", " C. nothing ", " D. anything "],
+      "answer": " C. nothing "
+    },
+    {
+      "question": "Henderson ________ going to work.",
+      "options": [" A. likes not ", " B. don't like ", " C. doesn't like ", " D. not like "],
+      "answer": " C. doesn't like "
+    },
+    {
+      "question": "But I saw him in Frankfurt ________.",
+      "options": [" A. 3 years ago ", " B. for 3 years ", " C. before 3 years ", " D. since 3 years "],
+      "answer": " A. 3 years ago "
+    },
+    {
+     "question": "- They don't have much in their apartment yet. <br> - ________ they are planning to live here only until Bob gets his degree, they don't want to buy much furniture.",
+      "options": [" A. Even ", " B. Since ", " C. Otherwise ", " D. However "],
+      "answer": " B. Since "
+    },
+    {
+      "question": "What do you think ________ this new record?",
+      "options": [" A. of ", " B. from ", " C. on ", " D. for "],
+      "answer": " A. of "
+    },
+    {
+      "question": "There are many ________ on television where a team of people have to answer questions.",
+      "options": [" A. queries ", " B. riddles ", " C. quizzes ", " D. inquiries "],
+      "answer": " C. quizzes "
+    },
+    {
+      "question": "You look ________ in red!",
+      "options": [" A. most nicely ", " B. too nice ", " C. nicely ", " D. very nice "],
+      "answer": " D. very nice "
+},
+{
+      "question": "The mother looked ________ at her naughty child.",
+      "options": [" A. anger ", " B. angry ", " C. angrily ", " D. angered "],
+      "answer": " C. angrily "
+},
+{
+  "question": "The radio's much too loud: please turn it ________.",
+  "options": [" A. out ", " B. low ", " C. up ", " D. down "],
+  "answer": " D. down "
+},
+{
+  "question": "He's listening ________ the radio.",
+  "options": [" A. at ", " B. on ", " C. to ", " D. - "],
+  "answer": " C. to "
+},
+{
+  "question": "- Do they have jobs? - No, ________ students.",
+  "options": [" A. they've both ", " B. they are both ", " C. the both are ", " D. both they are "],
+  "answer": " B. they are both "
+},
+{
+  "question": "I ________ to work when I had a puncture.",
+  "options": [" A. shall drive ", " B. am driving ", " C. drove ", " D. was driving "],
+  "answer": " D. was driving "
+},
+{
+  "question": "______ walkman is yellow.",
+  "options": [" A. Her ", " B. You ", " C. She ", " D. He "],
+  "answer": " A. Her "
+},
+{
+  "question": "______ TV last night?",
+  "options": [" A. Did he watch ", " B. Watched he ", " C. Did he watched ", " D. Does he watch "],
+  "answer": " A. Did he watch "
+},
+{
+  "question": "Tell me, is ________ your coat?",
+  "options": [" A. there ", " B. these ", " C. here ", " D. that "],
+  "answer": " D. that "
+},
+{
+  "question": "- How will you be able to get to Rome in time for the meeting? <br>- I'll fly ________ will only take 50 minutes.",
+  "options": [" A. and such ", " B. that ", " C. and therefore ", " D. which "],
+  "answer": " D. which "
+},
+{
+  "question": "Sometimes advertising signs ________ down during a storm and people are injured by them.",
+  "options": [" A. blow ", " B. are blown ", " C. blew ", " D. were blown "],
+  "answer": " B. are blown "
+},
+{
+  "question": "Peter has been trying for an hour, but his car still ________ start.",
+  "options": [" A. won't ", " B. wouldn't ", " C. didn't ", " D. hasn't "],
+  "answer": " A. won't "
+},
+{
+  "question": "Is the day sunny? No, ________ is dark.",
+  "options": [" A. they ", " B. its ", " C. it's ", " D. it "],
+  "answer": " D. it "
+},
+
+{
+    "question": "Betty is my friend. She is a friend of ________.",
+    "options": [" A. me ", " B. my ", " C. mine ", " D. I "],
+    "answer": " C. mine "
+ },
+{
+    "question": "I know somebody ________ can play the guitar.",
+    "options": [" A. he ", " B. who ", " C. what ", " D. that he "],
+    "answer": " B. who "
+  },
+  {
+    "question": "Could you look ________ the blackboard and read what is on it?",
+    "options": [" A. to ", " B. on ", " C. for ", " D. at "],
+    "answer": " D. at "
+  },
+  {
+    "question": "I want him ________ and buy these newspapers right now.",
+    "options": [" A. to go ", " B. go ", " C. going ", " D. not go "],
+    "answer": " A. to go "
+  },
+  {
+    "question": "______ coat is this?",
+    "options": [" A. Who ", " B. Whom ", " C. Whose ", " D. Who's "],
+    "answer": " C. Whose "
+  },
+  {
+    "question": "- What would you like for your birthday? <br>- ________ will do.",
+    "options": [" A. Anything ", " B. None ", " C. Something ", " D. Somebody "],
+    "answer": " A. Anything "
+  },
+  {
+    "question": "Mary and Jane ________ to the Film Society every Saturday.",
+    "options": [" A. have gone ", " B. go ", " C. goes ", " D. is going "],
+    "answer": " B. go "
+  },
+  {
+    "question": "Don't talk to me now because I ________ to understand what I am reading.",
+    "options": [" A. to try ", " B. try ", " C. am trying ", " D. trying "],
+    "answer": " C. am trying "
+  },
+  {
+    "question": "If students want a certificate ________ have to pass the final examination.",
+    "options": [" A. she ", " B. they ", " C. you ", " D. their "],
+    "answer": " B. they "
+  },
+  {
+    "question": "He ________ there about seven o'clock every morning.",
+    "options": [" A. went ", " B. go ", " C. is going ", " D. goes "],
+    "answer": " D. goes "
+  }
+]
+
+
+
+
+

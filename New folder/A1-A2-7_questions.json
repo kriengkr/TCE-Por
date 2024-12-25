@@ -1,0 +1,151 @@
+[{
+    "question": "Woman: Why did you decide to _____ another job?<br>Man: I wasn't happy with the one I had.",
+    "options": ["a. look at", "b. look after", "c. look for", "d. look into"],
+    "answer": "c. look for"
+},
+{
+    "question": "Woman: _____ of my friends can speak French very well.<br>Man: Neither can mine.",
+    "options": ["a. No one", "b. Nobody", "c. No", "d. None"],
+    "answer": "d. None"
+},
+{
+    "question": "Girl: I thought it was a bit boring.<br>Boy: Me too. The other team didn't get the ball very much, _____?",
+    "options": ["a. did they", "b. do they", "c. are they", "d. doesn't it"],
+    "answer": "a. did they"
+},
+{
+    "question": "Man: I don't feel very well.<br>Woman: It sounds like you might be _____ a cold.",
+    "options": ["a. doing", "b. having", "c. feeling", "d. getting"],
+    "answer": "b. having"
+},
+{
+    "question": "Woman: Do you know what I really like about the weekends?<br>Man: What?<br>Woman: _____ have to get up early.",
+    "options": ["a. I don't", "b. I can't", "c. I mustn't", "d. I didn't"],
+    "answer": "a. I don't"
+},
+{
+    "question": "Man: Are those your students?<br>Woman: Neither of the two girls _____ my student.",
+    "options": ["a. is", "b. are", "c. have been", "d. were"],
+    "answer": "a. is"
+},
+{
+    "question": "Woman: Can you tell me where the nearest garage is?<br>Man: Turn right _____ the next crossroads. You can't miss it.<br>Woman: Thanks.",
+    "options": ["a. on", "b. at", "c. in", "d. across"],
+    "answer": "b. at"
+},
+{
+    "question": "Man: Did you go out last night?<br>Woman: No, I _____ too tired.",
+    "options": ["a. am", "b. were", "c. was", "d. did"],
+    "answer": "c. was"
+},
+{
+    "question": "Woman: There isn't _____ to make a cake.<br>Man: Do you want me to get it now?",
+    "options": ["a. enough sugar", "b. sugar enough", "c. enough of sugar", "d. few sugar"],
+    "answer": "a. enough sugar"
+},
+{
+    "question": "Woman: _____ your brother spend Christmas with you?<br>Man: Every year.",
+    "options": ["a. Do", "b. Does", "c. Have", "d. Has"],
+    "answer": "b. Does"
+},
+{
+    "question": "Man: It is dark in here.<br>Woman: I will turn _____ the light.",
+    "options": ["a. on", "b. out", "c. over", "d. off"],
+    "answer": "a. on"
+},
+{
+    "question": "Woman: _____ do you visit your hometown?<br>Man: Once a year.",
+    "options": ["a. How long", "b. How far", "c. How often", "d. How"],
+    "answer": "c. How often"
+},
+{
+    "question": "Man: _____ you play the violin in school last year?<br>Woman: No, I played the piano.",
+    "options": ["a. did", "b. are", "c. have", "d. were"],
+    "answer": "a. did"
+},
+{
+    "question": "Boy: Why _____ you going swimming with us tomorrow?<br>Girl: I'm just too busy.",
+    "options": ["a. haven't", "b. aren't", "c. don't", "d. can't"],
+    "answer": "b. aren't"
+},
+{
+    "question": "Boy: Do you like playing this computer game?<br>Girl: Not really. Do you have _____ else?",
+    "options": ["a. anything", "b. one thing", "c. everything", "d. another thing"],
+    "answer": "a. anything"
+},
+{
+    "question": "Boy: Have you seen Maria?<br>Girl: Sorry, I don't know where she _____.",
+    "options": ["a. is", "b. was", "c. been", "d. being"],
+    "answer": "a. is"
+},
+{
+    "question": "Woman: Sorry I didn't come to your party.<br>Man: What happened?<br>Woman: Oh, I _____ sick, so I went to sleep.",
+    "options": ["a. felt", "b. feel", "c. feels", "d. feeling"],
+    "answer": "a. felt"
+},
+{
+    "question": "Man: _____ you play the violin in school last year?<br>Woman: No, I played the piano.",
+    "options": ["a. Did", "b. Are", "c. Have", "d. Were"],
+    "answer": "a. Did"
+},
+{
+    "question": "Man: Do you know Maria?<br>Woman: Yes, I met her two months _____.",
+    "options": ["a. ago", "b. past", "c. away", "d. since"],
+    "answer": "a. ago"
+},
+{
+    "question": "Man: Richard _____ the doctor every year.<br>Woman: I should do that, too.",
+    "options": ["a. saw", "b. sees", "c. seen", "d. seeing"],
+    "answer": "b. sees"
+},
+{
+    "question": "Teacher: Are you an Italian citizen?<br>Student: No, I was born _____ the United States.",
+    "options": ["a. in", "b. to", "c. at", "d. on"],
+    "answer": "a. in"
+},
+{
+    "question": "Man: Jeff keeps _____ at his watch.<br>Woman: I know. He has an important meeting to go to.",
+    "options": ["a. look", "b. to look", "c. looking", "d. to looking"],
+    "answer": "c. looking"
+},
+{
+    "question": "Woman: _____ coat is this?<br>Man: I don't know. It's not mine.",
+    "options": ["a. Who", "b. Who's", "c. Whom", "d. Whose"],
+    "answer": "d. Whose"
+},
+{
+    "question": "Man: It's hot in here. We need some fresh air.<br>Woman: But I _____ the window five minutes ago.",
+    "options": ["a. opened", "b. opening", "c. had opened", "d. was opening"],
+    "answer": "a. opened"
+},
+{
+    "question": "Man: Did I give you my car keys?<br>Woman: They're on the table in the hall.<br>What does the man mean?",
+    "options": ["A. Can I have your car keys?", "B. Do you need my car keys?", "C. Have you got my car keys?"],
+    "answer": "C. Have you got my car keys?"
+},
+{
+    "question": "Girl: What sort of books do you like reading?<br>Boy: Well, anything really.<br>What does the boy mean?",
+    "options": ["A. I don't like reading.", "B. I don't mind what I read.", "C. I don't have anything to read."],
+    "answer": "B. I don't mind what I read."
+},
+{
+    "question": "Woman: Can I try this swimsuit on, please?<br>Man: Sure - the changing room's over there on the right.<br>What does the woman mean?",
+    "options": ["A. Can you tell me how much this swimsuit is?", "B. Where can I pay for this swimsuit?", "C. Can I see if this swimsuit fits me?"],
+    "answer": "C. Can I see if this swimsuit fits me?"
+},
+{
+    "question": "Son: Can I have £6 for the cinema, please?<br>Mother: But I gave you £10 this morning!<br>What does the mother mean?",
+    "options": ["A. You might need more money than that.", "B. That's too much money for the cinema.", "C. I've given you enough money already."],
+    "answer": "C. I've given you enough money already."
+},
+{
+    "question": "Daughter: I don't understand tonight's history homework.<br>Father: Why don't you ask John about it?<br>What does the father mean?",
+    "options": ["A. I think John wants to help you with the homework.", "B. I don't think John understands the homework.", "C. I think John can help you."],
+    "answer": "C. I think John can help you."
+},
+{
+    "question": "Boy: How many people do we need for tomorrow's tennis match?<br>Girl: Four - but we only have three at the moment.<br>Boy: John is a good tennis player, I'll ask him.<br>What does the girl mean?",
+    "options": ["A. There are four tennis matches tomorrow.", "B. The tennis match is at 3 o'clock tomorrow.", "C. We need another player for tomorrow's match."],
+    "answer": "C. We need another player for tomorrow's match."
+}
+]

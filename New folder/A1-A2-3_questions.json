@@ -1,0 +1,155 @@
+[
+    {
+      "question": "Whenever we meet, we stop ________.",
+      "options": [" A. talking ", " B. talk ", " C. to talk ", " D. to talking "],
+      "answer": " A. talking "
+    },
+    {
+      "question": "They bought a ticket for the train at the ________ station.",
+      "options": [" A. bus ", " B. railway ", " C. police ", " D. lorry "],
+      "answer": " B. railway "
+    },
+    {
+      "question": "This bread is stale. Why don't you ________ it away?",
+      "options": [" A. do ", " B. put ", " C. throw ", " D. have "],
+      "answer": " C. throw "
+    },
+    {
+      "question": "Oh dear, there's a leak in my water pipe, I'll have to call the ________.",
+      "options": [" A. builder ", " B. carpenter ", " C. electrician ", " D. plumber "],
+      "answer": " D. plumber "
+    },
+    {
+      "question": "I know you've got a walkman, but I'm sure this one isn't ________.",
+      "options": [" A. your ", " B. you ", " C. your's ", " D. yours "],
+      "answer": " D. yours "
+    },
+    {
+      "question": "The aeroplane ________ down at Cairo on its way to India.",
+      "options": [" A. remained ", " B. stayed ", " C. landed ", " D. touched "],
+      "answer": " C. landed "
+    },
+    {
+      "question": "______ train until 3 o'clock.",
+      "options": [" A. It isn't ", " B. There isn't ", " C. There isn't a ", " D. There gives no "],
+      "answer": " B. There isn't "
+    },
+    {
+      "question": "______ Mr Brown's friends ever been here?",
+      "options": [" A. have ", " B. has ", " C. do ", " D. does "],
+      "answer": " B. has "
+    },
+    {
+      "question": "This is the second time that you have been here, ________?",
+      "options": [" A. is it ", " B. haven't you ", " C. don't you ", " D. isn't it "],
+      "answer": " D. isn't it "
+    },
+    
+        {
+            "question": "Two gunmen entered ________ the bank.",
+            "options": [" A. to ", " B. - ", " C. in ", " D. into "],
+            "answer": " D. into "
+        },
+        {
+            "question": "________ far is it to the station?",
+            "options": [" A. who ", " B. why ", " C. whose ", " D. how "],
+            "answer": " D. how "
+        },
+        {
+            "question": "What ________ got in that bag?",
+            "options": [" A. you ", " B. do you ", " C. you have ", " D. have you "],
+            "answer": " D. have you "
+        },
+        {
+            "question": "This is ________ when I was young.",
+            "options": [" A. the my photograph ", " B. mine photograph ", " C. a photograph of me ", " D. my photographs "],
+            "answer": " C. a photograph of me "
+        },
+        {
+            "question": "They are all ________ ready for the party.",
+            "options": [" A. getting ", " B. going ", " C. doing ", " D. putting "],
+            "answer": " A. getting "
+        },
+        {
+            "question": "Come tomorrow and ________ your books with you.",
+            "options": [" A. take ", " B. bring ", " C. fetch ", " D. hold "],
+            "answer": " B. bring "
+        },
+        {
+            "question": "My father's very happy ________ my exam results.",
+            "options": [" A. for ", " B. about ", " C. by ", " D. on "],
+            "answer": " B. about "
+        },
+        {
+            "question": "My father is ________ man.",
+            "options": [" A. an old ", " B. a old ", " C. not young ", " D. not an young "],
+            "answer": " A. an old "
+        },
+        {
+            "question": "- When did you go to work?\n- As soon as they came in, we ________ to work.",
+            "options": [" A. went ", " B. were going ", " C. had gone ", " D. go "],
+            "answer": " C. had gone "
+        },
+        {
+            "question": "Tell me, where am ________?",
+            "options": [" A. me ", " B. my ", " C. I ", " D. you "],
+            "answer": " C. I "
+        },
+        
+            {
+                "question": "My cousin ________ bank manager.",
+                "options": [" A. is a ", " B. makes ", " C. is ", " D. he is "],
+                "answer": " A. is a "
+            },
+            {
+                "question": "Can you ________ on the light, please?",
+                "options": [" A. switch ", " B. switches ", " C. to switch ", " D. switching "],
+                "answer": " A. switch "
+            },
+            {
+                "question": "They went from one shop to ________.",
+                "options": [" A. each other ", " B. other ", " C. the rest ", " D. another "],
+                "answer": " D. another "
+            },
+            {
+                "question": "When water freezes, it ________ into ice.",
+                "options": [" A. turns ", " B. has turned ", " C. would turn ", " D. is turning "],
+                "answer": " A. turns "
+            },
+            {
+                "question": "Charles ________ a box of chocolates.",
+                "options": [" A. gives often Pat ", " B. often gives Pat ", " C. often Pat gives ", " D. to Pat often gives "],
+                "answer": " B. often gives Pat "
+            },
+            {
+                "question": "The train will arrive ________ Hualampong ________ 8.30 p.m.",
+                "options": [" A. on....on ", " B. at.... at ", " C. in.....in ", " D. zero....in "],
+                "answer": " B. at.... at "
+            },
+            {
+                "question": "John can fly ________ aeroplane.",
+                "options": [" A. an ", " B. some ", " C. a ", " D. those "],
+                "answer": " C. a "
+            },
+            {
+                "question": "I ________ Tom for a long time.",
+                "options": [" A. know ", " B. knew ", " C. have known ", " D. had known "],
+                "answer": " C. have known "
+            },
+            {
+                "question": "Students should answer seven of the ________ ten questions.",
+                "options": [" A. below ", " B. following ", " C. under ", " D. added "],
+                "answer": " B. following "
+            },
+            {
+                "question": "He bought ________.",
+                "options": [" A. leather belt ", " B. a leather belt ", " C. leathered belt ", " D. a leathered belt "],
+                "answer": " B. a leather belt "
+            },
+            {
+                "question": "Give ________ some money.",
+                "options": [" A. for them ", " B. them ", " C. to them ", " D. they "],
+                "answer": " C. to them "
+            }
+        ]
+        

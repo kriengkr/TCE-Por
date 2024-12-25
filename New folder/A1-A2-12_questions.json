@@ -1,0 +1,141 @@
+[
+    {
+      "question": "Where’s the passport office?",
+      "options": ["A. by", "B. on", "C. of", "D. at"],
+      "answer": "A. by"
+    },
+    {
+      "question": "Did the Tigers win the basketball tournament?",
+      "options": ["A. defeat", "B. defeated", "C. are defeated", "D. were deleted"],
+      "answer": "B. defeated"
+    },
+    {
+      "question": "You look a little tired. Is there a problem?",
+      "options": ["A. at", "B. in", "C. over", "D. about"],
+      "answer": "D. about"
+    },
+    {
+      "question": "What does the woman mean?",
+      "options": ["A. I don't think Jack is annoying.", "B. I think you are right about Jack.", "C. I've changed my mind about Jack."],
+      "answer": "B. I think you are right about Jack."
+    },
+    {
+      "question": "What does the man mean?",
+      "options": ["A. Beth forgot her lunch.", "B. Someone took Beth's lunch.", "C. Beth prefers to buy her lunch."],
+      "answer": "A. Beth forgot her lunch."
+    },
+    {
+      "question": "What does the woman mean?",
+      "options": ["A. The restaurant is close to school.", "B. People will have dinner on the beach.", "C. The class will meet at the main building."],
+      "answer": "A. The restaurant is close to school."
+    },
+    {
+      "question": "What does the girl mean?",
+      "options": ["A. They will start a new study group.", "B. They agree to study together again.", "C. They both need to take the test again."],
+      "answer": "B. They agree to study together again."
+    },
+    {
+      "question": "What does the woman mean?",
+      "options": ["A. She decided not to do the work.", "B. She didn't have time to do the work.", "C. She didn't know how to do the work."],
+      "answer": "B. She didn't have time to do the work."
+    },
+    {
+      "question": "What does the woman mean?",
+      "options": ["A. in", "B. at", "C. of", "D. on"],
+      "answer": "B. at"
+    },
+    {
+      "question": "Can I get to Paris ………… train?",
+      "options": ["A. in", "B. on", "C. by", "D. with"],
+      "answer": "C. by"
+    },
+    {
+      "question": "Why do you like your job?",
+      "options": ["A. with respect to", "B. in support of", "C. according to", "D. because of"],
+      "answer": "D. because of"
+    },
+    {
+      "question": "What does the man mean?",
+      "options": ["A. I didn't think you would come.", "B. I know you're usually on time.", "C. It's difficult for you to be on time."],
+      "answer": "B. I know you're usually on time."
+    },
+    {
+      "question": "Is his family ………. California?",
+      "options": ["A. at", "B. to", "C. for", "D. from"],
+      "answer": "D. from"
+    },
+    {
+      "question": "What time do you go to work?",
+      "options": ["A. at", "B. in", "C. to", "D. on"],
+      "answer": "A. at"
+    },
+    {
+      "question": "How is your mother now?",
+      "options": ["A. better", "B. best", "C. good", "D. well"],
+      "answer": "A. better"
+    },
+    {
+      "question": "Is his family ……. New York?",
+      "options": ["A. from", "B. to", "C. at", "D. for"],
+      "answer": "A. from"
+    },
+    {
+      "question": "Did Anna go to the party with a friend?",
+      "options": ["A. her", "B. alone", "C. herself", "D. anyone"],
+      "answer": "B. alone"
+    },
+    {
+      "question": "What does the man mean?",
+      "options": ["A. Walk to school.", "B. You can take the bus.", "C. The bus stop is too far."],
+      "answer": "B. You can take the bus."
+    },
+    {
+      "question": "What does the woman mean?",
+      "options": ["A. The interview will be very quick.", "B. The interview will start very soon.", "C. The interview will be at 10 o'clock."],
+      "answer": "B. The interview will start very soon."
+    },
+    {
+      "question": "Do you eat fish?",
+      "options": ["A. need", "B. want", "C. have", "D. like"],
+      "answer": "D. like"
+    },
+    {
+      "question": "Are you going to Peter’s wedding?",
+      "options": ["A. didn’t", "B. wasn’t", "C. hadn’t", "D. haven’t"],
+      "answer": "A. didn’t"
+    },
+    {
+      "question": "How’s the ice cream?",
+      "options": ["A. which", "B. what", "C. Why", "D. How"],
+      "answer": "B. what"
+    },
+    {
+      "question": "What does the woman mean?",
+      "options": ["A. She wants to know where the man was during the meeting.", "B. She is explaining why she couldn't attend the meeting.", "C. She is asking the man what the meeting was about."],
+      "answer": "A. She wants to know where the man was during the meeting."
+    },
+    {
+      "question": "Why did you move to the city?",
+      "options": ["A. interest", "B. interests", "C. interested", "D. interesting"],
+      "answer": "C. interested"
+    },
+    
+        {
+          "question": "Are you planning anything for your daughter's first birthday?",
+          "options": ["A. present on", "B. come up", "C. catch or", "D. give up"],
+          "answer": "B. come up"
+        },
+        {
+          "question": "Did you find any documentation about the new office printer?",
+          "options": ["A. it wasn't much", "B. it weren't many", "C. they weren't many", "D. there wasn't much"],
+          "answer": "D. there wasn't much"
+        },
+        {
+          "question": "I've had almost no energy for three days now.",
+          "options": ["A. had to", "B. had better", "C. would best", "D. would better"],
+          "answer": "B. had better"
+        }
+      
+      
+  ]
+  

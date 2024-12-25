@@ -1,0 +1,18 @@
+/* เพิ่มระยะห่างด้านบนให้กับ body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+    padding-top: 30px; /* เพิ่มระยะห่างจากด้านบนของหน้า */
+}
+
+/* หรือเพิ่มระยะห่างด้านบนให้กับ quiz-container */
+#quiz-container {
+    margin-top: 40px; /* เพิ่มระยะห่างจากด้านบน */
+}
+
+/* ถ้าต้องการเพิ่มระยะห่างด้านบนของแต่ละคำถาม */
+#quiz-form li {
+    margin-top: 1cm; /* เพิ่มระยะห่างระหว่างคำถาม */
+}
